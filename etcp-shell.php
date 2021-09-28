@@ -20,7 +20,7 @@
 	
 }
 </style>
-<title>Komut Çalıştırma</title>
+<title>/etc/passwd Viewer </title>
 </head>
 <body>
 <center>
